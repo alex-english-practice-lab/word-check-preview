@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "lib:difficulty-100-120",
-  "name": "难度 100–120 词库",
+  "name": "多邻国词库",
   "description": "合并自难度 100、难度 105–115 和难度 120 三份词表，保留原难度分组。",
   "version": "1.0.0",
   "selectionMode": "named",
@@ -10,7 +10,7 @@
     "format": "source-json-v1",
     "metadata": {
       "id": "difficulty-100-120",
-      "title": "难度 100–120 词库",
+      "title": "多邻国词库",
       "description": "合并自难度 100、难度 105–115 和难度 120 三份词表，保留原难度分组。",
       "version": "1.0.0",
       "language": "en",
